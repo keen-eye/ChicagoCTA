@@ -158,7 +158,7 @@ def write_db(D_comp, response):
 
 base_url = 'http://www.ctabustracker.com/bustime/api/v1/'
 route_str = 'getvehicles'
-dev_str = 'iwAameW6cVPbv4PTdka8KEu3b'
+dev_str = '<devstring>'
 rts_url = base_url+'getroutes'+ '?key='+dev_str
 
 D_comp = {}

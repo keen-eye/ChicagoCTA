@@ -68,7 +68,7 @@ def write_stops_db(root):
     
 base_url = 'http://www.ctabustracker.com/bustime/api/v1/'
 pattern_str = 'getpatterns'
-dev_str = 'iwAameW6cVPbv4PTdka8KEu3b'
+dev_str = '<devstring>'
 
 #conn = sqlite3.connect('Pattern_Stops.db')
 
